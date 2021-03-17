@@ -66,7 +66,7 @@ $Microsoft365Suite = ''
 # Leave the one(s) you DON'T want to check empty (with '' ), add a value in the ones you WANT to check (I added 'yes' for readability)
 
 $Incident = 'yes'
-$Advisory = ''
+$Advisory = 'yes'
 
 # Build the Services array            
 $ServicesArray = @()            
